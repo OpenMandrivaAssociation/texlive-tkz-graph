@@ -6,7 +6,7 @@
 # catalog-version 1.00
 Name:		texlive-tkz-graph
 Version:	1.00
-Release:	8
+Release:	9
 Summary:	Draw graph-theory graphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-graph
