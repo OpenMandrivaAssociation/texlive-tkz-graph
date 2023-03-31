@@ -1,6 +1,6 @@
 Name:		texlive-tkz-graph
 Version:	57484
-Release:	1
+Release:	2
 Summary:	Draw graph-theory graphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-graph
