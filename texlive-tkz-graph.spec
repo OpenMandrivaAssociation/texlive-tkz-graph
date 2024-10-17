@@ -3,7 +3,7 @@ Version:	57484
 Release:	2
 Summary:	Draw graph-theory graphs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-graph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-graph
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-graph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-graph.doc.r%{version}.tar.xz
